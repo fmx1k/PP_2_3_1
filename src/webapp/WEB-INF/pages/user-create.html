@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create User</title>
+</head>
+<body>
+<form action="#" th:action="@{/user-create}" th:object="${user}" method="post">
+    <div>
+        <label for="name">Name</label>
+        <input name="name" type="text" id="name"/>
+
+        <br/>
+
+        <label for="lastName">LastName</label>
+        <input name="lastName" type="text" id="lastName"/>
+
+        <br>
+
+        <label for="age">Age</label>
+        <input name="age" type="number" id="age"/>
+
+        <br>
+
+        <input type="submit" value="Create User"/>
+    </div>
+</form>
+</body>
+</html>
