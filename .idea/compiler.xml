@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="UserTableHtml" />
+        <module name="PP_2_3_1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="UserTableHtml" target="17" />
+      <module name="PP_2_3_1" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
