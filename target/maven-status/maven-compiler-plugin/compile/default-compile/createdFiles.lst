@@ -1,0 +1,9 @@
+mvc\hibernate\crud\model\service\UserService.class
+mvc\hibernate\crud\model\dao\UserDaoImpl.class
+mvc\hibernate\crud\model\dao\UserDao.class
+mvc\hibernate\crud\model\web\config\WebConfig.class
+mvc\hibernate\crud\model\controller\UserController.class
+mvc\hibernate\crud\model\web\config\AppInit.class
+mvc\hibernate\crud\model\web\config\DataBaseConfig.class
+mvc\hibernate\crud\model\entity\User.class
+mvc\hibernate\crud\model\service\UserServiceImpl.class
